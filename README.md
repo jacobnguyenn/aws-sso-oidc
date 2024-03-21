@@ -1,4 +1,4 @@
-Using aws client to performance device grant flow in [Oauth2 RFC8628](https://datatracker.ietf.org/doc/html/rfc8628).
+Using aws client to perform device grant flow in [Oauth2 RFC8628](https://datatracker.ietf.org/doc/html/rfc8628).
 [verification_uri_complete](https://datatracker.ietf.org/doc/html/rfc8628#section-3.3.1) is included in server response
 
 
